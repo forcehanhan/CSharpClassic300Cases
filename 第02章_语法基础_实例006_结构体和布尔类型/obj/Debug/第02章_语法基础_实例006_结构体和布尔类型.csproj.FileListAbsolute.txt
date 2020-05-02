@@ -1,0 +1,6 @@
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\bin\Debug\第02章_语法基础_实例006_结构体和布尔类型.exe.config
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\bin\Debug\第02章_语法基础_实例006_结构体和布尔类型.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\bin\Debug\第02章_语法基础_实例006_结构体和布尔类型.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\obj\Debug\第02章_语法基础_实例006_结构体和布尔类型.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\obj\Debug\第02章_语法基础_实例006_结构体和布尔类型.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例006_结构体和布尔类型\obj\Debug\第02章_语法基础_实例006_结构体和布尔类型.csprojAssemblyReference.cache

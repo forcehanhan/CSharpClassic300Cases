@@ -1,0 +1,6 @@
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\bin\Debug\CSharp程序设计经典300例.exe.config
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\bin\Debug\CSharp程序设计经典300例.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\bin\Debug\CSharp程序设计经典300例.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\obj\Debug\CSharp程序设计经典300例.csprojAssemblyReference.cache
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\obj\Debug\CSharp程序设计经典300例.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\obj\Debug\CSharp程序设计经典300例.pdb

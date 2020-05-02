@@ -1,0 +1,5 @@
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第04章_数组与集合_实例037_List的使用\bin\Debug\第04章_数组与集合_实例037_List的使用.exe.config
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第04章_数组与集合_实例037_List的使用\bin\Debug\第04章_数组与集合_实例037_List的使用.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第04章_数组与集合_实例037_List的使用\bin\Debug\第04章_数组与集合_实例037_List的使用.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第04章_数组与集合_实例037_List的使用\obj\Debug\第04章_数组与集合_实例037_List的使用.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第04章_数组与集合_实例037_List的使用\obj\Debug\第04章_数组与集合_实例037_List的使用.pdb

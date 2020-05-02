@@ -1,0 +1,6 @@
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\bin\Debug\第02章_语法基础_实例010_变量.exe.config
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\bin\Debug\第02章_语法基础_实例010_变量.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\bin\Debug\第02章_语法基础_实例010_变量.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\obj\Debug\第02章_语法基础_实例010_变量.exe
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\obj\Debug\第02章_语法基础_实例010_变量.pdb
+C:\Users\hanjunjie\source\repos\CSharp程序设计经典300例\第02章_语法基础_实例010_变量\obj\Debug\第02章_语法基础_实例010_变量.csprojAssemblyReference.cache
