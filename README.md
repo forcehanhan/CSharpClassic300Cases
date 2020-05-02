@@ -1,2 +1,2 @@
-# TestProject1
-创建一个测试工程
+# CSharpClassic300Cases
+CSharp程序设计经典300例,包含300个案例小练习
